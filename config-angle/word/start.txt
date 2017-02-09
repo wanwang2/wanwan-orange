@@ -1,1 +1,1 @@
-path:	E:/git/wanwang/wanwan-orange/config-angle/word;
+path:	E:/git/wanwang/wanwan-orange/config-angle/word/word;
