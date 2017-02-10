@@ -1,0 +1,2 @@
+param:	E:/git/wanwang/wanwan-orange/config-coco/coco/param;
+template:	E:/git/wanwang/wanwan-orange/config-coco/coco;
