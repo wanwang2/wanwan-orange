@@ -1,0 +1,1 @@
+math:	E:/git/wanwang/wanwan-orange/config-core/core/math/base.txt;
