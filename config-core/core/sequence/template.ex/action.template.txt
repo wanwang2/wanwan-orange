@@ -1,0 +1,60 @@
+package com.huawei.m2m.portal.web.imei;
+
+import com.huawei.m2m.portal.biz.imei.IMEIDataCountImpl;
+import com.huawei.m2m.portal.constants.RecDefineConstant;
+import com.huawei.m2m.portal.vo.imei.IMEIDataCountVo;
+import com.huawei.m2m.portal.web.AbstractBaseAction;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.text.DecimalFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.*;
+
+/**
+ * IMEI机卡分离统计数据
+ *
+ * @author 向文波
+ *         2017-01-06
+ */
+public class IMEI@NameAction extends AbstractBaseAction<IMEI@NameVo> {
+    private static final Logger logger = LoggerFactory.getLogger(IMEI@NameAction.class);
+
+    //统计数据对象
+    private IMEIDataCountVo imeiDataCountVo = new IMEIDataCountVo();
+    @Autowired
+    private IMEIDataCountImpl imeiDataCountService;
+
+    //页面默认时间
+    private String defaultTime;
+
+    /**
+     * 页面初始化
+     *
+     * @return
+     */
+    public String init() {
+    
+        return SUCCESS;
+    }
+
+    public String query() {
+        
+        return SUCCESS;
+    }
+
+    @Override
+    public IMEIDataCountVo getModel() {
+        return imeiDataCountVo;
+    }
+
+    public String getDefaultTime() {
+        return defaultTime;
+    }
+
+    public void setDefaultTime(String defaultTime) {
+        this.defaultTime = defaultTime;
+    }
+}
