@@ -6,3 +6,5 @@ test@folder:
 	@root/src/test/java/org/wanwanframework/file/@name;
 pom@file:	
 	@root/pom.xml;
+controller@file:	
+	@root/src/main/java/org/wanwanframework/file/@name/@nameController.java;
