@@ -1,3 +1,4 @@
 @root:	E:/git/wanwang/auto/wanwan-spirit-girl;
 @name:	spiritgirl;
 @Name:	Spiritgirl;
+@package:	org.wanwanframework.file.spiritgirl;

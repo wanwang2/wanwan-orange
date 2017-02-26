@@ -4,7 +4,7 @@ resource@file:
 	@root/src/main/resources/@name.txt;
 test@folder:		
 	@root/src/test/java/org/wanwanframework/file/@name;
-pom@file:	
+pom@file:
 	@root/pom.xml;
-controller@file:	
+controller@file:
 	@root/src/main/java/org/wanwanframework/file/@name/@NameController.java;
