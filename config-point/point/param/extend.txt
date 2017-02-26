@@ -1,0 +1,4 @@
+readme@file:	
+	@root/readme.txt;
+coco@file:	
+	@root/coco.txt;

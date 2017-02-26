@@ -1,0 +1,2 @@
+param:	E:/git/wanwang/wanwan-orange/config-point/point/param;
+template:	E:/git/wanwang/wanwan-orange/config-point/point;

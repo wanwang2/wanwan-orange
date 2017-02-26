@@ -1,0 +1,1 @@
+1, this is a first verion of sequence.-------------end.
