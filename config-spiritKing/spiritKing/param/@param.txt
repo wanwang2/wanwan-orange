@@ -1,4 +1,4 @@
-@root:	E:/git/wanwang/wanwan-orange/config-spiritKing/spiritKing;
+@root:	E:/git/wanwang/auto/wanwan-spirit-king;
 @name:	spiritKing;
 @Name:	SpiritKing;
 @package:	org.wanwanframework.file.spiritKing;
