@@ -1,0 +1,6 @@
+param@folder:				
+	@root/param;
+template@folder:		
+	@root/template;	
+start@file:				
+	@root/start.txt;
