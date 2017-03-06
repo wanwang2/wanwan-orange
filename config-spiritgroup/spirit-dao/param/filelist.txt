@@ -1,0 +1,6 @@
+param@folder:				
+	@root/param;
+template@folder:		
+	@root/template;	
+build@file:				
+	@root/build.txt;
