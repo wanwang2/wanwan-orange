@@ -1,2 +1,2 @@
-spirit-controller
-spirit-dao
+control:	spirit-controller;
+dao:	spirit-dao;
