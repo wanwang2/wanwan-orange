@@ -1,0 +1,2 @@
+@root:	E:/git/wanwang/auto/wanwan-coco1;
+@name:	coco1;

@@ -1,0 +1,4 @@
+@root:	E:/git/wanwang/auto/wanwan-note;
+@name:	note;
+@Name:	note;
+@package:	org.wanwanframework.file.note;
