@@ -1,0 +1,4 @@
+@root:	E:/git/wanwang/auto/wanwan-@name;
+@package:	org.wanwanframework.spirit.@name;
+@name:	spiritlist;
+@Name:	SpiritList;
