@@ -1,4 +1,4 @@
-dao:	@name-dao;
-controller:	@name-controller;
-struts:	@name-struts;
-jsp:	@name-jsp;
+dao:	@name-spiritdao;
+controller:	@name-spiritcontroller;
+struts:	@name-spiritstruts;
+jsp:	@name-spiritjsp;
