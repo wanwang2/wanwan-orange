@@ -1,4 +1,4 @@
-dao:	@root-@root;
-controller:	@root-@root;
-struts:	@root-@root;
-jsp:	@root-@root;
+dao:	@name-dao;
+controller:	@name-controller;
+struts:	@name-@struts;
+jsp:	@name-@jsp;
