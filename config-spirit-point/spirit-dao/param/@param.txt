@@ -1,2 +1,2 @@
-@root.:	E:/git/wanwang/auto/wanwan-spirit-group/@name;
+@root:	E:/git/wanwang/auto/wanwan-spirit-point-group/@name;
 @name:	spirit-dao
