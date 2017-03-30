@@ -1,0 +1,4 @@
+@root:	D:/data/auto/wanwan-spirit-znote/wanwan-spirit-@name;
+@package:	org.wanwanframework.spirit.@name;
+@name:	original;
+@Name:	Original;

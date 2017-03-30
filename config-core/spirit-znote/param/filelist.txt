@@ -1,0 +1,2 @@
+link@file:				
+	@root/@name相关收集.txt;
