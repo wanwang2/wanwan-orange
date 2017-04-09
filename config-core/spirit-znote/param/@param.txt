@@ -1,4 +1,4 @@
-@root:	D:/data/auto/wanwan-spirit-znote/wanwan-spirit-@name;
+@root:	E:/git/wanwang/auto/wanwan-spirit-znote;
 @package:	org.wanwanframework.spirit.@name;
 @name:	original;
 @Name:	Original;
