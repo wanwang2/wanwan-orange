@@ -1,0 +1,26 @@
+package @package;
+
+import org.wanwanframwork.file.Log;
+
+/**
+ * Dao
+ * @author coco
+ *
+ */
+public class @NameDao {
+
+	private String content;
+	
+	public @NameDao() {
+		
+	}
+	
+	public void init() {
+		Log.log("content:" + content);
+	}
+	
+	public static void main(String[] args) {
+		@NameDao dao = new @NameDao();
+		dao.init();
+	}
+}
