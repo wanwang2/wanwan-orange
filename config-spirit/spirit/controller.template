@@ -4,7 +4,7 @@ import org.wanwanframwork.file.Log;
 
 /**
  * Controller
- * @author coco
+ * @author controller.template
  *
  */
 public class @NameController {
