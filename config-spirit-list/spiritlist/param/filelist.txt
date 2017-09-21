@@ -4,3 +4,5 @@ template@folder:
 	@root/template;	
 build@file:				
 	@root/build.txt;
+java@file:				
+	@root/src/main/java/org/wanwanframework/@Name.java;
