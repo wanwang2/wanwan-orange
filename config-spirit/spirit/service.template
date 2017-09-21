@@ -3,15 +3,15 @@ package @package;
 import org.wanwanframwork.file.Log;
 
 /**
- * Controller
+ * service
  * @author @Name
  *
  */
-public class @NameController {
+public class @NameService {
 
 	private String content;
 	
-	public @NameController() {
+	public @NameService() {
 		
 	}
 	
@@ -20,7 +20,7 @@ public class @NameController {
 	}
 	
 	public static void main(String[] args) {
-		@NameController controller = new @NameController();
-		controller.init();
+		@NameService c = new @NameService();
+		c.init();
 	}
 }

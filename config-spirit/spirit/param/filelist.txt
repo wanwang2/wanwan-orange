@@ -8,3 +8,5 @@ pom@file:
 	@root/pom.xml;
 controller@file:
 	@root/src/main/java/org/wanwanframework/file/@name/@NameController.java;
+service@file:
+	@root/src/main/java/org/wanwanframework/file/@name/@NameService.java;
