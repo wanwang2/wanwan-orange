@@ -1,5 +1,7 @@
 param@folder:				
 	@root/param;
+txt@file:				
+	@root/param/@name.txt;
 template@folder:		
 	@root/template;	
 build@file:				
