@@ -1,2 +1,2 @@
-param:	e:/git/wanwan-orange/config-spirit/spirit/param;
-template:	e:/git/wanwan-orange/config-spirit/spirit;
+param:		@root/param;
+template:	@root;
